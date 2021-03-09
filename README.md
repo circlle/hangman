@@ -1,2 +1,2 @@
 # hangman
-an easy game
+[an easy game](https://www.wikipedia.com/en/Hangman_(game))
