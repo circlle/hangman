@@ -1,0 +1,2 @@
+# hangman
+an easy game
